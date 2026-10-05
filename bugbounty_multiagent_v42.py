@@ -3,7 +3,7 @@
 """
 ============================================================
  Bug Bounty / Pentest Multi-Agent Framework - v4.2
- Autor: Ethical Hacker (TVM / IBM X-Force workflow)
+ Autor: Ethical Hacker (workflow)
  Plataforma objetivo: Parrot OS
 
  Novedades v4.2:
@@ -1006,7 +1006,7 @@ ROWS_PLACEHOLDER
 </table>
 <div class="footer">
     Generado por Bug Bounty Multi-Agent Framework v4.2 | OWASP WSTG v4.2 + OWASP API Top 10:2023<br>
-    Uso exclusivo en engagements autorizados. Ethical Hacking / TVM.
+    Uso exclusivo en engagements autorizados. Ethical Hacking.
 </div>
 </body></html>"""
 
