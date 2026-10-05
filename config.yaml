@@ -1,0 +1,26 @@
+# ============================================================
+# Configuración de Scope — Bug Bounty Multi-Agent Framework
+# ============================================================
+# IMPORTANTE: Completa esto ÚNICAMENTE con datos de un programa
+# de bug bounty donde tengas autorización explícita, o con tu
+# propio laboratorio (DVWA, juice-shop, HackTheBox, etc.).
+
+program_name: "Nombre del programa (ej. HackerOne - Empresa X)"
+
+in_scope_domains:
+  - "example.com"
+  - "app.example.com"
+  # Agrega aquí todos los dominios/subdominios autorizados en el scope
+
+out_of_scope:
+  - "admin.example.com"     # ejemplo: excluido explícitamente por el programa
+  - "internal.example.com"
+
+# Nivel de intensidad de los escaneos activos:
+#   low    -> solo reconocimiento pasivo y detección de tecnologías/headers
+#   medium -> incluye nmap top-ports y plantillas nuclei no intrusivas
+#   high   -> incluye pruebas más agresivas (usar solo si el programa lo permite)
+allowed_intensity: "low"
+
+authorized_by: "Nombre de quien autoriza / referencia del programa"
+authorization_date: "2026-09-01"
