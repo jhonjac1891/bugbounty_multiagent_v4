@@ -16,7 +16,8 @@ bugbounty _ multiagent _ v 4-2
 - Validación de scope obligatoria (anti-uso fuera de autorización)
 
 ## 📸 Capturas
-![GUI Preview](docs/screenshots/gui.png)
+![GUI Preview](docs/screenshots/gui.png)  <img width="1420" height="816" alt="image (6)" src="https://github.com/user-attachments/assets/33421c6d-37cd-42a1-94e4-47f6ee5388d1" />
+
 
 ## ⚙️ Instalación
 \`\`\`bash
